@@ -1,0 +1,28 @@
+.logo img{
+    position: relative;
+    left: 90px;
+
+}
+
+.logo{
+    display: flex;
+
+   p{
+    font-weight: bold;
+    font-size: 18px;
+   }
+}
+
+ul{
+    display: flex;
+    gap: 100px;
+    position: absolute;
+    top: 10px;
+    left: 300px;
+
+    li a{
+        text-decoration: none;
+        
+    }
+
+}
